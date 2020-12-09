@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "Landing page layout course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danil1yam/praktika.git"
+  },
+  "author": "Danila Yamashkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danil1yam/praktika/issues"
+  },
+  "homepage": "https://github.com/danil1yam/praktika#readme"
+}
